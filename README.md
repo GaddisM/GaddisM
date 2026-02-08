@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
+- **[Threat Hunting (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
 - **[Threat Hunting (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
 
 <hr/>
