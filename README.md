@@ -6,12 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/GaddisM/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gaddism/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/gaddism/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
-- **[Threat Hunting (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
+- **[Threat Hunting Incident: (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
+- **[Threat Hunt Scenario: (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
 
 <hr/>
 
