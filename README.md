@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Incident: (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
 - **[Threat Hunt Scenario: (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
-- - **[Threat Hunt Scenario: (CorpHealth: TRACE BACK)](https://github.com/GaddisM/Threat-Hunt---CorpHealth-Traceback)**
+- **[Threat Hunt Scenario: (CorpHealth: TRACE BACK)](https://github.com/GaddisM/Threat-Hunt---CorpHealth-Traceback)**
 
 <hr/>
 
