@@ -11,8 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Incident: (Tor Browser Usage)](https://github.com/GaddisM/threat-hunting-scenario-tor/tree/main)**
-- **[Threat Hunt Scenario: (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
-- **[Threat Hunt Scenario: (CorpHealth: TRACE BACK)](https://github.com/GaddisM/Threat-Hunt---CorpHealth-Traceback)**
+- **[Threat Hunting: Azuki Part 1 (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
+- **[Threat Hunting: (CorpHealth: TRACE BACK)](https://github.com/GaddisM/Threat-Hunt---CorpHealth-Traceback)**
+- **[Threat Hunt Incident: (THE BUYER)](https://github.com/GaddisM/The-BUYER)**
 
 <hr/>
 
