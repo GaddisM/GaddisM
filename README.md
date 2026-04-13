@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting: Azuki Part 1 (PORT of ENTRY)](https://github.com/GaddisM/Threat-Hunt-Azuki-Series--PORT-of-ENTRY)**
 - **[Threat Hunting: (CorpHealth: TRACE BACK)](https://github.com/GaddisM/Threat-Hunt---CorpHealth-Traceback)**
 - **[Threat Hunt Incident: (THE BUYER)](https://github.com/GaddisM/The-BUYER)**
-- **[Threat Hunt Incident: (SCATTERED INVOICE)](https://github.com/GaddisM/Scattered-Spider-IR-Simulation)**
+- **[Threat Hunt Incident Response: (SCATTERED INVOICE)](https://github.com/GaddisM/Scattered-Spider-IR-Simulation)**
 
 <hr/>
 
